@@ -1,0 +1,47 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: Verdana, serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h2 {
+    color: white;
+    font-family: Verdana, serif;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-family: Verdana, serif;
+    font-size: 21px;
+    text-align: center;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.rights {
+    color: gray;
+    font-family: Verdana, serif;
+    font-size: 18px;
+    text-align: right;
+}
